@@ -1,0 +1,42 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\counter\simulation\modelsim
+Ecounter
+Z1 w1732190239
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\altera\counter\simulation\modelsim
+Z6 8C:/altera/counter/counter.vhd
+Z7 FC:/altera/counter/counter.vhd
+l0
+L5
+VJGRVTQ>D[PRHYI>;NOF;D1
+!s100 DOa>C<Q8NK[jGD]m[8GUN3
+Z8 OV;C;10.1d;51
+31
+!i10b 1
+Z9 !s108 1732425207.318000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/altera/counter/counter.vhd|
+Z11 !s107 C:/altera/counter/counter.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+Abehavioral
+R2
+R3
+R4
+DEx4 work 7 counter 0 22 JGRVTQ>D[PRHYI>;NOF;D1
+l23
+L20
+VmkU3Bf8LI5_mNU70oVGz12
+!s100 cS6?LoXC9?d<e1Tmzab[c3
+R8
+31
+!i10b 1
+R9
+R10
+R11
+R12
+R13

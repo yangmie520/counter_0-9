@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\counter\simulation\modelsim
+Ecounter
+Z1 w1732105370
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\altera\counter\simulation\modelsim
+Z6 8C:/altera/counter/counter.vhd
+Z7 FC:/altera/counter/counter.vhd
+l0
+L5
+V@<6MYY0D_NDY?lzNbA[HW1
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1732106076.949000
+Z10 !s90 -reportprogress|300|-work|work|C:/altera/counter/counter.vhd|
+Z11 !s107 C:/altera/counter/counter.vhd|
+Z12 o-work work -O0
+Z13 tExplicit 1
+!s100 DOa>C<Q8NK[jGD]m[8GUN3
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+DEx4 work 7 counter 0 22 @<6MYY0D_NDY?lzNbA[HW1
+l24
+L21
+VN_WRA<f2;3N5K>0A]SAJC2
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 ;j@fU9HH:;1mNI>AN@`iW0
+!i10b 1
+Ecounter_tb
+Z14 w1732105180
+R3
+R4
+R5
+Z15 8C:/altera/counter/counter_tb.vhd
+Z16 FC:/altera/counter/counter_tb.vhd
+l0
+L4
+V;5[GmEZfZDJ]TUNMo;XNM1
+!s100 ;GWUIP]TdBje=;NS0P:Wm1
+R8
+32
+!i10b 1
+Z17 !s108 1732106078.033000
+Z18 !s90 -reportprogress|300|-work|work|C:/altera/counter/counter_tb.vhd|
+Z19 !s107 C:/altera/counter/counter_tb.vhd|
+R12
+R13
+Abehavioral
+R3
+R4
+DEx4 work 10 counter_tb 0 22 ;5[GmEZfZDJ]TUNMo;XNM1
+l33
+L6
+VYC`>X>TEfnd?7a8d][8eR1
+!s100 O3[?YD8ZXZDKHcIXkeW^H0
+R8
+32
+!i10b 1
+R17
+R18
+R19
+R12
+R13
